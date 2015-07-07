@@ -5,7 +5,7 @@ Also See requirements.txt for required modules to install
 Quick start
 -----------
 
-1. Add "polls" to your INSTALLED_APPS setting like this::
+1. Add "polls" to your INSTALLED_APPS setting in a django project...
 
     INSTALLED_APPS = (
         ...
